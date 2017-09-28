@@ -34,6 +34,7 @@
 #include <ctype.h>
 #include <errno.h>
 #include <getopt.h>
+#include <unistd.h>
 #include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
